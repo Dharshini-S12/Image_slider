@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.slider{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+    gap: 10px;
+
+}
+.image img{
+    width: 250px;
+    height: 250px;
+}
+.buttons button{
+    font-size: 15px;
+    border:1vh 5px black;
+    width: 50px;
+    cursor: pointer;
+}
