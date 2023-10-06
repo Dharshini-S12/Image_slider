@@ -17,5 +17,5 @@ function next(){
 
 
 function setImg(){
-    return slider_image.setAttribute('src','images/' +images[i]);
+    return slider_image.setAttribute('src','images/' +images[i]);//element.setAttribute("style", "color: blue; font-size: 20px;");--providing extra to that particular element
 }
