@@ -1,4 +1,4 @@
-![image](https://github.com/Dharshini-S12/Image_slider/assets/118833017/5a9b3553-4b2c-4ea9-84d0-f62b88c9303d)# Image Slider Project
+# Image Slider Project
 
 ## Overview
 The Image Slider project is a web-based application that allows users to create and customize image sliders for their websites or presentations. It provides an easy-to-use interface for adding images, adjusting settings, and embedding the slider on web pages.
